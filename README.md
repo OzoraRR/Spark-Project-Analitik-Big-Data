@@ -1,4 +1,4 @@
-# Spark-Project-Akhir_Ozora-Nathalnael-Purba_245150207111102
+# Spark-Project-Akhir
 Mengimplementasikan pengolahan big data menggunakan Spark dengan dataset berupa informasi lowongan pekerjaan yang didapat dari teknik web scraping (jobstreet.com)
 
 # 🔍 Analisis Lowongan Kerja IT Indonesia dengan Apache Spark
