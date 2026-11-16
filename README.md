@@ -132,5 +132,6 @@ Raw JSON
 
 ## 👤 Author
 
-**Ozora Nathalnael Purba**  
-NIM 245150207111102
+**Ozora**  
+
+
